@@ -1,0 +1,22 @@
+<resources>
+    <style name="AppNameStyle">
+        <item name="android:fontFamily">@font/fun_font</item>
+        <item name="android:textSize">72sp</item>
+        <item name="android:textColor">@color/primary_color</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#80000000</item>
+        <item name="android:shadowDx">2</item>
+        <item name="android:shadowDy">2</item>
+        <item name="android:shadowRadius">3</item>
+    </style>
+
+    <style name="FruitInitialStyle" parent="AppNameStyle">
+        <item name="android:textSize">192sp</item>
+        <item name="android:textColor">@color/initial_color</item>
+    </style>
+
+    <style name="FruitNameStyle">
+        <item name="android:textSize">96sp</item>
+        <item name="android:textColor">@color/bright_blue</item>
+    </style>
+</resources>

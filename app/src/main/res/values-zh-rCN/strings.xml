@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">水果学习</string>
+    <string name="apple">苹果</string>
+    <string name="banana">香蕉</string>
+    <string name="cherry">樱桃</string>
+    <string name="orange">橘子</string>
+    <string name="grape">葡萄</string>
+    <string name="pineapple">菠萝</string>
+    <string name="strawberry">草莓</string>
+    <string name="avocado">牛油果</string>
+    <string name="mangosteen">山竹</string>
+</resources>

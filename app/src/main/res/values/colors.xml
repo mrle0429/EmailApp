@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主题颜色 -->
+    <color name="primary_color">#FF9800</color>  <!-- 橙色 -->
+    <color name="primary_dark_color">#F57C00</color>  <!-- 深橙色 -->
+    <color name="accent_color">#4CAF50</color>  <!-- 绿色 -->
+    
+    <!-- 背景颜色 -->
+    <color name="background_color">#FFFDE7</color>  <!-- 浅黄色 -->
+    
+    <!-- 文本颜色 -->
+    <color name="text_color_primary">#212121</color>  <!-- 深灰色 -->
+    <color name="text_color_secondary">#757575</color>  <!-- 中灰色 -->
+    
+    <!-- 特殊元素颜色 -->
+    <color name="initial_color">#FF9800</color>  <!-- 橙色，用于首字母 -->
+    <color name="card_background_color">#FFFFFF</color>  <!-- 白色，用于卡片背景 -->
+    
+    <!-- 其他明亮颜色，可用于不同的水果或装饰元素 -->
+    <color name="bright_red">#FF5252</color>
+    <color name="bright_blue">#458AC5</color>
+    <color name="bright_green">#69F0AE</color>
+    <color name="bright_yellow">#FFD740</color>
+    <color name="bright_purple">#E040FB</color>
+</resources>

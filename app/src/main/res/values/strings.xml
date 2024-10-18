@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Fruit Learning</string>
+    <string name="apple">Apple</string>
+    <string name="banana">Banana</string>
+    <string name="cherry">Cherry</string>
+    <string name="orange">Orange</string>
+    <string name="grape">Grape</string>
+    <string name="pineapple">Pineapple</string>
+    <string name="strawberry">Strawberry</string>
+    <string name = "avocado">Avocado</string>
+    <string name = "mangosteen">mangosteen</string>
+
+    <string-array name="fruit_names">
+        <item>apple</item>
+        <item>banana</item>
+        <item>cherry</item>
+        <item>orange</item>
+        <item>grape</item>
+        <item>pineapple</item>
+        <item>strawberry</item>
+        <item>avocado</item>
+        <item>mangosteen</item>
+    </string-array>
+</resources>
