@@ -21,9 +21,9 @@
             </intent-filter>
         </activity>
 
-         <activity android:name=".FruitDetailActivity"
-         android:exported="false">
-   </activity>
+        <activity
+            android:name=".FruitDetailActivity"
+            android:exported="false" />
     </application>
 
 </manifest>

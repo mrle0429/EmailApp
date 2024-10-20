@@ -1,17 +1,43 @@
 <resources>
+    <!-- Base style for the app name TextView -->
     <style name="AppNameStyle">
         <item name="android:fontFamily">@font/fun_font</item>
-        <item name="android:textSize">36sp</item>
-        <item name="android:textColor">@color/bright_purple</item>
+        <item name="android:textColor">@color/primary_color</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:shadowColor">#80000000</item>
-        <item name="android:shadowDx">2</item>
-        <item name="android:shadowDy">2</item>
-        <item name="android:shadowRadius">3</item>
+        <item name="android:layout_marginTop">40dp</item>
+
+    </style>
+
+    <!-- Style for app name on smaller devices (e.g., phones) -->
+    <style name="AppNameStyle.Phone">
+        <item name="android:textSize">48sp</item> <!-- Smaller font size for phones -->
+    </style>
+
+    <!-- Style for app name on larger devices (e.g., tablets) -->
+    <style name="AppNameStyle.Tablet">
+        <item name="android:textSize">64sp</item> <!-- Larger font size for tablets -->
+    </style>
+
+    <style name="FruitNameStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/bright_blue</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="FruitNameStyle.Phone">
+        <item name="android:textSize">64sp</item>
+    </style>
+
+    <style name="FruitNameStyle.Tablet">
+        <item name="android:textSize">80sp</item>
     </style>
 
     <style name="FruitInitialStyle" parent="AppNameStyle">
         <item name="android:textSize">128sp</item>
         <item name="android:textColor">@color/initial_color</item>
     </style>
+
+
+
+
 </resources>
